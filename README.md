@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Endergamer200111/Endergamer200111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there 👋!</h1>
+<div align="center">
+ 
+  <a href="https://twitch.tv/Endergamer20011" target="_blank"><img src="https://img.shields.io/badge/Twitch-@Micorksen-purple?style=for-the-badge&logo=twitch" alt="Twitch" /></a>
+  <a href="https://discordapp.com/users/646709110666035200" target="_blank"><img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <br />
+<p align="center">Hey, Je suis Endergamer !</p>
+<h2 align="center">My statistics:</h2>
+<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Endergamer200111&theme=material-palenight&show_icons=true"></p></a>
+<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endergamer200111&layout=compact&theme=material-palenight"></p></a>
